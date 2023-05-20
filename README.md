@@ -15,13 +15,11 @@ npm run start
 
 The API requires several environment variables to be set in order to run properly. These can be set in a .env file in the root directory of the project. Here are the required variables add them to .env file:
 
-PORT=3000
-JWT_SECRET=mysecretkey
-SENDGRID_API_KEY=your-sendgrid-api-key
-PORT: The port number the API will listen on.
-MONGODB_URL: The connection URL for the MongoDB database.
-JWT_SECRET: The secret key used to sign JSON Web Tokens for user authentication.
-SENDGRID_API_KEY: Your API key for the SendGrid email service.
+
+- PORT: The port number the API will listen on.
+- MONGODB_URL: The connection URL for the MongoDB database.
+- JWT_SECRET: The secret key used to sign JSON Web - - Tokens for user authentication.
+- SENDGRID_API_KEY: Your API key for the SendGrid email service.
 ## Usage
 
 To start the API, run To start the API, run npm run devin the terminal. The API will listen on the port specified in thePORT` environment variable.
