@@ -7,8 +7,8 @@ This is a Node.js API for managing tasks. It provides endpoints for creating, re
 To install the API, clone the repository and run npm install to install the required dependencies:
 
 `git clone git@github.com:ibrahimahmed237/Task-manager-api.git`
-npm install
 
+npm install
 - to run project: 
 npm run start
 ## Configuration
@@ -22,7 +22,7 @@ The API requires several environment variables to be set in order to run properl
 - SENDGRID_API_KEY: Your API key for the SendGrid email service.
 ## Usage
 
-To start the API, run To start the API, run npm run devin the terminal. The API will listen on the port specified in thePORT` environment variable.
+To start the API, run To start the API, run npm run devin the terminal. The API will listen on the port specified in the PORT` environment variable.
 
 Once the API is running, you can use a tool like Postman to interact with the endpoints. Here are the available endpoints:
 
