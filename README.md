@@ -8,7 +8,7 @@ To install the API, clone the repository and run npm install to install the requ
 
 `git clone git@github.com:ibrahimahmed237/Task-manager-api.git`
 
-npm install
+- To install run `npm install`
 - to run project: 
 npm run start
 ## Configuration
