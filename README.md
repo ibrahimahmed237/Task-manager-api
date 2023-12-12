@@ -9,8 +9,7 @@ To install the API, clone the repository and run npm install to install the requ
 `git clone git@github.com:ibrahimahmed237/Task-manager-api.git`
 
 - To install run `npm install`
-- to run project: 
-npm run start
+- To run project: `npm run start`
 ## Configuration
 
 The API requires several environment variables to be set in order to run properly. These can be set in a .env file in the root directory of the project. Here are the required variables add them to .env file:
