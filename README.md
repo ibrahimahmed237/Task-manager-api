@@ -6,7 +6,7 @@ This is a Node.js API for managing tasks. It provides endpoints for creating, re
 
 To install the API, clone the repository and run npm install to install the required dependencies:
 
-`git clone git@github.com:ibrahimahmed237/task-manager-api.git`
+`git clone git@github.com:ibrahimahmed237/Task-manager-api.git`
 npm install
 
 - to run project: 
